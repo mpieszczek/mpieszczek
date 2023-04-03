@@ -1,4 +1,9 @@
 ### Hi there 👋
+## What occupies me currently?
+- My PhD in Computer Science
+- Learning Federated Learning
+- Learning Django
+- Doing Music
 
 <!--
 **mpieszczek/mpieszczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
