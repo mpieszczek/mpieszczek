@@ -4,5 +4,7 @@
 - Learning Federated Learning
 - Learning Django
 - Doing Music:
-      Spotify profile:  https://open.spotify.com/artist/4Vd20cL0rFwqZm8Ks8G2Nk?si=hAl0ZdJVSu2Qh4GpgOc5MA
-      YouTube:          https://www.youtube.com/@rosailewi
+
+Spotify profile:  https://open.spotify.com/artist/4Vd20cL0rFwqZm8Ks8G2Nk?si=hAl0ZdJVSu2Qh4GpgOc5MA
+      
+YouTube:          https://www.youtube.com/@rosailewi
