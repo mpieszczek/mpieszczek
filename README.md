@@ -1,10 +1,18 @@
-### Hi there 👋
-## What occupies me currently?
-- My PhD in Computer Science
-- Learning Federated Learning
-- Learning Django, AWS, Big Data(Hadoop, Spark)
-- Doing Music:
+## About this GitHub
 
-Spotify profile:  https://open.spotify.com/artist/4Vd20cL0rFwqZm8Ks8G2Nk?si=hAl0ZdJVSu2Qh4GpgOc5MA
-      
-YouTube:          https://www.youtube.com/@rosailewi
+This profile contains:
+- Technical prototypes and system-level experiments
+- Selected tooling and algorithmic code
+- Archived and exploratory projects created over time
+
+Playable game builds are available on itch.io:
+https://lewita.itch.io
+
+## Highlighted Projects
+
+### Rhythm Gameplay Prototype (C / Raylib)
+Currently only on itch.io.
+Gameplay–audio synchronization, custom timing pipeline, tooling support.  
+Focus on deterministic logic and runtime systems.
+
+Other repositories may include archived, experimental, or incomplete work.
