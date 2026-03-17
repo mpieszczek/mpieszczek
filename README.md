@@ -10,6 +10,11 @@ https://lewita.itch.io
 
 ## Highlighted Projects
 
+### (Sub-Racer) Video Subtitles Editor with Autmatic Transcription (C / Raylib)
+Free and lightweight subtitles editor using: raylib, libmpv(for video decoding).
+Also added automatic audio transrption for subtitles initialization,
+using whisper.cpp and OpenAI models.
+
 ### Rhythm Gameplay Prototype (C / Raylib)
 Currently only on itch.io.
 Gameplay–audio synchronization, custom timing pipeline, tooling support.  
